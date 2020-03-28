@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/AbhiSaphire/Django-RealEstate-WebApp?style=for-the-badge)
 
 ## Requirements
-<li>Django==2.2.4</li>
+<li>Django==2.2.10</li>
 <li>Pillow==5.2.0</li>
 <li>psycopg2==2.7.5</li>
 <li>psycopg2-binary==2.7.5</li>
