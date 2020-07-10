@@ -13,7 +13,7 @@
 ## Installation
 <li>Create a virtual environment</li>
 <li>Install requirements.txt file in your environment</li>
-<li>Use the package manager ![pip](https://pip.pypa.io/en/stable/) to install requirements file.</li>
+<li>Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements file.</li>
 
 
 ```bash
